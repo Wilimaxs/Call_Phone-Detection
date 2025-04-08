@@ -22,8 +22,7 @@ Deteksi sederhana untuk mengetahui apakah seseorang sedang menggunakan handphone
 
 ## 🧰 Komponen
 
-- Sensor elektromagnetik / RF detector / sensor khusus lain (sesuai skematik)
-- Arduino / ESP32 / microcontroller lainnya
+- Sensor elektromagnetik / RF detector / sensor khusus lain
 - LED / Buzzer (opsional sebagai output indikator)
 - Kabel jumper, breadboard, dan catu daya
 
