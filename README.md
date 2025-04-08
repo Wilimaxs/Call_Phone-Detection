@@ -8,7 +8,7 @@ Deteksi sederhana untuk mengetahui apakah seseorang sedang menggunakan handphone
 
 | Schematic | Board |
 |----------|--------|
-| ![Schematic](gambar/Screenshot 2025-04-08 144711.png) | ![Board](gambar/Screenshot 2025-04-08 144719.png) |
+| ![Schematic](gambar/sch.png) | ![Board](gambar/brd.png) |
 
 ---
 
