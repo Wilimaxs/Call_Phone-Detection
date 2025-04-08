@@ -1,6 +1,6 @@
 # 📞 Callphone Detection
 
-Deteksi sederhana untuk mengetahui apakah seseorang sedang menggunakan handphone untuk menelepon. Proyek ini dirancang sebagai sistem ringan dengan komponen minimal untuk pengujian atau pembelajaran dasar sistem deteksi aktivitas.
+Deteksi sederhana untuk mengetahui apakah seseorang sedang menggunakan handphone untuk menelepon. Proyek ini dirancang sebagai sistem ringan dengan komponen minimal untuk pengujian atau pembelajaran dasar sistem deteksi aktivitas. dapat dikembangkan lebih lanjut untuk mendeteksi penggunaan handphone dalam ruangan ujian
 
 ---
 
@@ -15,8 +15,8 @@ Deteksi sederhana untuk mengetahui apakah seseorang sedang menggunakan handphone
 ## 🎯 Fitur
 
 - Deteksi handphone yang sedang digunakan untuk menelepon
-- Output sederhana (LED/buzzer atau sinyal digital)
-- Cocok untuk prototipe awal atau pengujian sistem kecil
+- Output sederhana (LED dan buzzer)
+- Cocok untuk prototipe awal dalam pembuatan pendeteksi kecurangan dalam ujian
 
 ---
 
@@ -31,17 +31,14 @@ Deteksi sederhana untuk mengetahui apakah seseorang sedang menggunakan handphone
 
 ## ⚙️ Cara Kerja Singkat
 
-Sensor akan mendeteksi sinyal RF atau gelombang elektromagnetik yang khas saat handphone melakukan panggilan. Ketika sinyal tersebut terdeteksi, mikrokontroler akan memberikan output, misalnya menyalakan LED atau mengirim sinyal digital.
+Sensor akan mendeteksi sinyal RF atau gelombang elektromagnetik yang khas saat handphone melakukan panggilan. Ketika sinyal tersebut terdeteksi, mikrokontroler akan memberikan output, menyalakan LED atau mengirim sinyal digital.
 
 ---
 
 ## 🚀 Instalasi & Penggunaan
 
 1. Rakit komponen sesuai skematik
-2. Upload kode ke mikrokontroler (lihat `callphone_detector.ino` atau `main.py`)
-3. Uji sistem dengan melakukan panggilan telepon dekat sensor
+3. Uji sistem dengan melakukan panggilan telepon dekat sensor ataupun menjauhinya
 
 ---
-
-## 📂 Struktur Proyek
 
